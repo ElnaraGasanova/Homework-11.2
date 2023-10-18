@@ -20,4 +20,5 @@ def str_title(data: str):
 
 
 if __name__ == "__main__":
+
     print(str_title("заглавные первые буквы"))
